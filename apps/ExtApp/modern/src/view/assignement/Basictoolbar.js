@@ -1,17 +1,15 @@
 Ext.define('ExtApp.view.assignement.Basictoolbar', {
-    extend: 'Ext.Panel',
+    extend: 'Ext.Toolbar',
     xtype: 'basic-toolbar',
     //alias: 'widget.Basictoolbar',
     requires: [
         'Ext.SegmentedButton'
     ],
-    cls: 'card',
-    html: "ahihi",
     layout: {
         overflow: 'scroller'
     },
-    layout: 'center',
-    tbar: [{
+    // layout: 'center',
+    items: [{
         text: 'Default',
         badgeText: '2'
     }, {

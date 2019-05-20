@@ -46,7 +46,7 @@ Ext.define('ExtApp.view.assignement.assignement1', {
                     margin: 40,
                     padding: 20
                 },
-
+                shadow: 'true',
                 items: [{
                     xtype: "basic-toolbar",
                     docked: 'bottom',

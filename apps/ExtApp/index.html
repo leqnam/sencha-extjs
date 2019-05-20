@@ -23,13 +23,13 @@
             // device detection default.
             //
             if (s.match(/\bclassic\b/)) {
-                profile = 'classic';
+                profile = 'modern';
             }
             else if (s.match(/\bmodern\b/)) {
                 profile = 'modern';
             }
             else {
-                profile = tags.desktop ? 'classic' : 'modern';
+                profile = tags.desktop ? 'modern' : 'modern';
                 //profile = tags.phone ? 'modern' : 'classic';
             }
 
