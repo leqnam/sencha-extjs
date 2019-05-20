@@ -11209,7 +11209,7 @@ var Ext = Ext || {};
       "version": "6.6.0"
     },
     "cmd": {
-      "version": "6.7.0.36"
+      "version": "6.7.0.37"
     },
     "core": {
       "css": true,

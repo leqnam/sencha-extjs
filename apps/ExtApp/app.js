@@ -14,5 +14,7 @@ Ext.application({
     ],
 
     // The name of the initial view to create.
-    mainView: 'ExtApp.view.main.Main'
+    // mainView: 'ExtApp.view.main.Main'
+    mainView: 'ExtApp.view.assignement.assignement1'
+
 });

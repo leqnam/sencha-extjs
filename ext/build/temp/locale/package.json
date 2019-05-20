@@ -1,0 +1,27 @@
+{
+  "name": "locale",
+  "alternateName": [
+    "ext-locale"
+  ],
+  "namespace": "Ext",
+  "format": "1",
+  "version": "6.6.0",
+  "creator": "Sencha",
+  "summary": "Ext JS Modern toolkit locale",
+  "detailedDescription": "Ext JS Modern toolkit locale for localization to a local language",
+  "type": "code",
+  "framework": "ext",
+  "toolkit": "modern",
+  "output": "${workspace.subpkg.prefix}/${package.name}",
+  "build": {
+    "dir": "${package.output}"
+  },
+  "sass": {
+    "namespace": "Ext",
+    "etc": "${package.dir}/sass/etc/all.scss",
+    "var": "${package.dir}/sass/var",
+    "src": "${package.dir}/sass/src"
+  },
+  "classpath": "${package.dir}/src",
+  "overrides": "${package.dir}/overrides/${package.locale}"
+}

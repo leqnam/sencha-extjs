@@ -1,0 +1,428 @@
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:7 */
+@font-face {
+    font-family: 'Pictos';
+    src: url('fonts/pictos-web.eot');
+    src: url('fonts/pictos-web.eot?#iefix') format('embedded-opentype'), url('fonts/pictos-web.woff') format('woff'), url('fonts/pictos-web.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:17 */
+.pictos {
+    font-family: Pictos !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:21 */
+.pictos-anchor:before {
+    content: "a" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:22 */
+.pictos-box:before {
+    content: "b" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:23 */
+.pictos-upload:before {
+    content: "c" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:24 */
+.pictos-forbidden:before {
+    content: "d" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:25 */
+.pictos-lightning:before {
+    content: "e" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:26 */
+.pictos-rss:before {
+    content: "f" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:27 */
+.pictos-team:before {
+    content: "g" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:28 */
+.pictos-help:before {
+    content: "h" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:29 */
+.pictos-info:before {
+    content: "i" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:30 */
+.pictos-attachment:before {
+    content: "j" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:31 */
+.pictos-heart:before {
+    content: "k" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:32 */
+.pictos-list:before {
+    content: "l" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:33 */
+.pictos-music:before {
+    content: "m" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:34 */
+.pictos-table:before {
+    content: "n" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:35 */
+.pictos-folder:before {
+    content: "o" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:36 */
+.pictos-pencil:before {
+    content: "p" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:37 */
+.pictos-chat2:before {
+    content: "q" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:38 */
+.pictos-retweet:before {
+    content: "r" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:39 */
+.pictos-search:before {
+    content: "s" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:40 */
+.pictos-time:before {
+    content: "t" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:41 */
+.pictos-switch:before {
+    content: "u" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:42 */
+.pictos-camera:before {
+    content: "v" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:43 */
+.pictos-chat:before {
+    content: "w" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:44 */
+.pictos-settings2:before {
+    content: "x" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:45 */
+.pictos-settings:before {
+    content: "y" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:46 */
+.pictos-tags:before {
+    content: "z" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:47 */
+.pictos-attachment2:before {
+    content: "A" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:48 */
+.pictos-bird:before {
+    content: "B" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:49 */
+.pictos-cloud:before {
+    content: "C" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:50 */
+.pictos-delete_black1:before {
+    content: "D" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:51 */
+.pictos-eye:before {
+    content: "E" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:52 */
+.pictos-file:before {
+    content: "F" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:53 */
+.pictos-browser:before {
+    content: "G" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:54 */
+.pictos-home:before {
+    content: "H" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:55 */
+.pictos-inbox:before {
+    content: "I" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:56 */
+.pictos-network:before {
+    content: "J" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:57 */
+.pictos-key:before {
+    content: "K" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:58 */
+.pictos-radio:before {
+    content: "L" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:59 */
+.pictos-mail:before {
+    content: "M" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:60 */
+.pictos-news:before {
+    content: "N" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:61 */
+.pictos-case:before {
+    content: "O" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:62 */
+.pictos-photos:before {
+    content: "P" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:63 */
+.pictos-power:before {
+    content: "Q" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:64 */
+.pictos-action:before {
+    content: "R" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:65 */
+.pictos-favorites:before {
+    content: "S" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:66 */
+.pictos-plane:before {
+    content: "T" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:67 */
+.pictos-user:before {
+    content: "U" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:68 */
+.pictos-video:before {
+    content: "V" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:69 */
+.pictos-compose:before {
+    content: "W" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:70 */
+.pictos-truck:before {
+    content: "X" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:71 */
+.pictos-chart2:before {
+    content: "Y" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:72 */
+.pictos-chart:before {
+    content: "Z" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:73 */
+.pictos-expand:before {
+    content: "`" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:74 */
+.pictos-refresh:before {
+    content: "1" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:75 */
+.pictos-check:before {
+    content: "2" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:76 */
+.pictos-check2:before {
+    content: "3" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:77 */
+.pictos-play:before {
+    content: "4" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:78 */
+.pictos-pause:before {
+    content: "5" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:79 */
+.pictos-stop:before {
+    content: "6" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:80 */
+.pictos-forward:before {
+    content: "7" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:81 */
+.pictos-rewind:before {
+    content: "8" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:82 */
+.pictos-play2:before {
+    content: "9" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:83 */
+.pictos-refresh2:before {
+    content: "0" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:84 */
+.pictos-minus:before {
+    content: "-" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:85 */
+.pictos-battery:before {
+    content: "=" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:86 */
+.pictos-left:before {
+    content: "[" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:87 */
+.pictos-right:before {
+    content: "]" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:88 */
+.pictos-calendar:before {
+    content: "\005C" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:89 */
+.pictos-shuffle:before {
+    content: ";" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:90 */
+.pictos-wireless:before {
+    content: "'" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:91 */
+.pictos-speedometer:before {
+    content: "," !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:92 */
+.pictos-more:before {
+    content: "." !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:93 */
+.pictos-print:before {
+    content: "/" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:94 */
+.pictos-download:before {
+    content: "~" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:95 */
+.pictos-warning_black:before {
+    content: "!" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:96 */
+.pictos-locate:before {
+    content: "@" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:97 */
+.pictos-trash:before {
+    content: "#" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:98 */
+.pictos-cart:before {
+    content: "$" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:99 */
+.pictos-bank:before {
+    content: "%" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:100 */
+.pictos-flag:before {
+    content: "^" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:101 */
+.pictos-add:before {
+    content: "&" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:102 */
+.pictos-delete:before {
+    content: "*" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:103 */
+.pictos-lock:before {
+    content: "(" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:104 */
+.pictos-unlock:before {
+    content: ")" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:105 */
+.pictos-minus2:before {
+    content: "_" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:106 */
+.pictos-add2:before {
+    content: "+" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:107 */
+.pictos-up:before {
+    content: "{" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:108 */
+.pictos-down:before {
+    content: "}" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:109 */
+.pictos-screens:before {
+    content: "|" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:110 */
+.pictos-bell:before {
+    content: ":" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:111 */
+.pictos-quote:before {
+    content: "\"" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:112 */
+.pictos-volume_mute:before {
+    content: "<" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:113 */
+.pictos-volume:before {
+    content: ">" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:114 */
+.pictos-question:before {
+    content: "?" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:115 */
+.pictos-arrow_left:before {
+    content: "[" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:116 */
+.pictos-arrow_right:before {
+    content: "]" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:117 */
+.pictos-arrow_up:before {
+    content: "{" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:118 */
+.pictos-arrow_down:before {
+    content: "}" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:119 */
+.pictos-organize:before {
+    content: "I" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:120 */
+.pictos-bookmarks:before {
+    content: "I" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:121 */
+.pictos-loop2:before {
+    content: "r" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:122 */
+.pictos-star:before {
+    content: "S" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:123 */
+.pictos-maps:before {
+    content: "@" !important;
+}
+/* D:/namle/sencha/SenchaExtJsWS/ext/packages/font-pictos/sass/src/all.scss:124 */
+.pictos-reply:before {
+    content: "R" !important;
+}
