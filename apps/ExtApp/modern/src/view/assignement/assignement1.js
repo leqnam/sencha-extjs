@@ -75,7 +75,7 @@ Ext.define('ExtApp.view.assignement.assignement1', {
                 html: '<strong>Basic Panel 3</strong>',
                 width: 400,
                 height: 400,
-            },
+            }
         ]
         //html: 'Hello, World!!'
 });
